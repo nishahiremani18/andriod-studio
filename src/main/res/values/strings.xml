@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Enrollment Application</string>
+    <string-array name="branch">
+        <item>CSE</item>
+        <item>ECE</item>
+    </string-array>
+    <string-array name="yearofadmission">
+        <item>2016</item>
+        <item>2017</item>
+        <item>2018</item>
+        <item>2019</item>
+    </string-array>
+    <string-array name="rollnumbers">
+        <item>001</item>
+        <item>002</item>
+        <item>003</item>
+        <item>004</item>
+    </string-array>
+</resources>
